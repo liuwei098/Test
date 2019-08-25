@@ -12,5 +12,6 @@ public class hello {
 		System.out.println("hello");
 		System.out.println("wangruid");
 
+		System.out.println("chcccc");
 	}
 }
